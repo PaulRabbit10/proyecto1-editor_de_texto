@@ -61,3 +61,5 @@ class Panel extends JPanel {
         add(etiqueta);
     }
 }
+
+//gggggg
